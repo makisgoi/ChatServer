@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/bella/chatServer/build/src/server",
+  "command": "/usr/bin/g++    -I/home/bella/chatServer/include -I/home/bella/chatServer/include/server -I/home/bella/chatServer/include/server/db -I/home/bella/chatServer/include/server/model -I/home/bella/chatServer/include/server/redis -I/home/bella/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/bella/chatServer/src/server/chatserver.cpp",
+  "file": "/home/bella/chatServer/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/bella/chatServer/build/src/server",
+  "command": "/usr/bin/g++    -I/home/bella/chatServer/include -I/home/bella/chatServer/include/server -I/home/bella/chatServer/include/server/db -I/home/bella/chatServer/include/server/model -I/home/bella/chatServer/include/server/redis -I/home/bella/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/bella/chatServer/src/server/main.cpp",
+  "file": "/home/bella/chatServer/src/server/main.cpp"
+},
+{
+  "directory": "/home/bella/chatServer/build/src/server",
+  "command": "/usr/bin/g++    -I/home/bella/chatServer/include -I/home/bella/chatServer/include/server -I/home/bella/chatServer/include/server/db -I/home/bella/chatServer/include/server/model -I/home/bella/chatServer/include/server/redis -I/home/bella/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/bella/chatServer/src/server/chatservice.cpp",
+  "file": "/home/bella/chatServer/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/bella/chatServer/build/src/server",
+  "command": "/usr/bin/g++    -I/home/bella/chatServer/include -I/home/bella/chatServer/include/server -I/home/bella/chatServer/include/server/db -I/home/bella/chatServer/include/server/model -I/home/bella/chatServer/include/server/redis -I/home/bella/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/bella/chatServer/src/server/db/db.cpp",
+  "file": "/home/bella/chatServer/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/bella/chatServer/build/src/server",
+  "command": "/usr/bin/g++    -I/home/bella/chatServer/include -I/home/bella/chatServer/include/server -I/home/bella/chatServer/include/server/db -I/home/bella/chatServer/include/server/model -I/home/bella/chatServer/include/server/redis -I/home/bella/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/bella/chatServer/src/server/model/usermodel.cpp",
+  "file": "/home/bella/chatServer/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/bella/chatServer/build/src/server",
+  "command": "/usr/bin/g++    -I/home/bella/chatServer/include -I/home/bella/chatServer/include/server -I/home/bella/chatServer/include/server/db -I/home/bella/chatServer/include/server/model -I/home/bella/chatServer/include/server/redis -I/home/bella/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/bella/chatServer/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/bella/chatServer/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/bella/chatServer/build/src/server",
+  "command": "/usr/bin/g++    -I/home/bella/chatServer/include -I/home/bella/chatServer/include/server -I/home/bella/chatServer/include/server/db -I/home/bella/chatServer/include/server/model -I/home/bella/chatServer/include/server/redis -I/home/bella/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/bella/chatServer/src/server/model/groupmodel.cpp",
+  "file": "/home/bella/chatServer/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/bella/chatServer/build/src/server",
+  "command": "/usr/bin/g++    -I/home/bella/chatServer/include -I/home/bella/chatServer/include/server -I/home/bella/chatServer/include/server/db -I/home/bella/chatServer/include/server/model -I/home/bella/chatServer/include/server/redis -I/home/bella/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/bella/chatServer/src/server/model/friendmodel.cpp",
+  "file": "/home/bella/chatServer/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/bella/chatServer/build/src/server",
+  "command": "/usr/bin/g++    -I/home/bella/chatServer/include -I/home/bella/chatServer/include/server -I/home/bella/chatServer/include/server/db -I/home/bella/chatServer/include/server/model -I/home/bella/chatServer/include/server/redis -I/home/bella/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/bella/chatServer/src/server/redis/redis.cpp",
+  "file": "/home/bella/chatServer/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/bella/chatServer/build/src/client",
+  "command": "/usr/bin/g++    -I/home/bella/chatServer/include -I/home/bella/chatServer/include/server -I/home/bella/chatServer/include/server/db -I/home/bella/chatServer/include/server/model -I/home/bella/chatServer/include/server/redis -I/home/bella/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/bella/chatServer/src/client/main.cpp",
+  "file": "/home/bella/chatServer/src/client/main.cpp"
+}
+]
